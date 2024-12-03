@@ -7,7 +7,7 @@ from aiogram.utils import executor
 logging.basicConfig(level=logging.INFO)
 
 # Токен вашего бота
-API_TOKEN = '7542914141:AAEGE-IRdCWrwjhrFbppasBq6gmTKcU707w'
+API_TOKEN = 'Ваш API_TOKEN'
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
